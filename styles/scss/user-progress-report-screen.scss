@@ -1,0 +1,667 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 183.2rem;
+}.user-progress-report-screen-jqB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #b0d8da;
+  box-sizing: border-box;
+  padding-right: 3.4rem;
+
+  .auto-group-m6ay-qtD {
+    width: 15rem;
+    flex-direction: column;
+    background-color: #fafeff;
+    box-sizing: border-box;
+    padding: 1rem 1.85rem 0.6rem 1.85rem;
+    display: flex;
+    border-radius: 0 3rem 3rem 0;
+    flex-shrink: 0;
+    margin: 0rem 4rem 0.1rem 0rem;
+    align-items: center;
+
+    .image-4-iSD {
+      margin: 0rem 2.608rem 11.943rem 0rem;
+      width: 6.3917rem;
+      height: 7.0571rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .auto-group-6viu-azD {
+      position: relative;
+      flex-shrink: 0;
+      margin: 0rem 2.9rem 4.9rem 0rem;
+      width: 5.7rem;
+      height: 8.4rem;
+
+      .homeicon-icons-2-4eV {
+        left: 1.1rem;
+        top: 0;
+        object-fit: cover;
+        vertical-align: top;
+        width: 4.2rem;
+        height: 4.2rem;
+        cursor: pointer;
+        position: absolute;
+      }
+      .home-ZLM {
+        font-weight: 400;
+        line-height: 2.5775;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 4.4rem;
+        position: absolute;
+        top: 4rem;
+        color: #000000;
+        width: 5.7rem;
+        left: 0;
+        font-size: 1.7rem;
+      }
+    }
+    .r-2-zgZ {
+      height: 4.4rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 2rem 0.3rem 0rem;
+      width: 4.4rem;
+    }
+    .progress-HvZ {
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      font-weight: 400;
+      line-height: 1.7647058824;
+      color: #000000;
+      flex-shrink: 0;
+      margin: 0rem 2.7rem 5rem 0rem;
+      text-align: center;
+      font-size: 1.7rem;
+    }
+    .image-24-x17 {
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 2.3rem 0.8rem 0rem;
+      width: 4.1rem;
+      height: 4rem;
+    }
+    .calendar-EzD {
+      margin: 0rem 2.7rem 4.6rem 0rem;
+      font-size: 1.7rem;
+      font-weight: 400;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      flex-shrink: 0;
+      text-align: center;
+      line-height: 1.7647058824;
+      color: #000000;
+      white-space: nowrap;
+    }
+    .auto-group-xqxs-7YD {
+      margin: 0rem 3.55rem 7.3rem 1.45rem;
+      width: calc(100% - 5rem);
+      height: 9.3rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .image-24-Q1X {
+        vertical-align: top;
+        width: 5.3rem;
+        height: 5.3rem;
+        cursor: pointer;
+        position: absolute;
+        left: 0.7rem;
+        top: 0;
+        object-fit: cover;
+      }
+      .profile-tSV {
+        color: #000000;
+        white-space: nowrap;
+        width: 6.3rem;
+        height: 4.4rem;
+        position: absolute;
+        font-size: 1.7rem;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        left: 0;
+        top: 4.9rem;
+        font-weight: 400;
+        line-height: 2.5775;
+      }
+    }
+    .auto-group-baez-wff {
+      margin: 0rem 3.25rem 0rem 1.45rem;
+      width: calc(100% - 4.7rem);
+      height: 7.4rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .logout-pzM {
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        position: absolute;
+        top: 3rem;
+        font-size: 1.7rem;
+        font-weight: 400;
+        color: #000000;
+        width: 6.6rem;
+        height: 4.4rem;
+        left: 0;
+        line-height: 2.5775;
+        white-space: nowrap;
+      }
+      .image-6-6gy {
+        position: absolute;
+        left: 1.5rem;
+        top: 0;
+        object-fit: cover;
+        vertical-align: top;
+        width: 3.9rem;
+        height: 4rem;
+        cursor: pointer;
+      }
+    }
+  }
+  .auto-group-cbk9-jzq {
+    flex-shrink: 0;
+    margin: 0rem 3.2rem 0.1rem 0rem;
+    box-sizing: border-box;
+    padding: 2.6rem 3.6rem 14.2rem 3.6rem;
+    width: 54.6rem;
+    background-color: #fcfbfb;
+    border-radius: 1.5rem;
+
+    .progress-summary-aEm {
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 2.5775;
+      color: #000000;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      margin: 0rem 0rem 4.2rem 10rem;
+    }
+    .auto-group-rgqk-fX7 {
+      display: flex;
+      align-items: center;
+      margin: 0rem 16rem 4.1rem 6.4rem;
+      width: calc(100% - 22.4rem);
+
+      .time-period--ATs {
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0.2rem 1.1rem 0rem 0rem;
+      }
+      .auto-group-jaeh-r5o {
+        margin-bottom: 0.2rem;
+        width: 12rem;
+        height: 4.2rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-39-AMP {
+          top: 0;
+          background-color: #d9d9d9;
+          width: 12rem;
+          height: 4rem;
+          position: absolute;
+          left: 0;
+        }
+        .polygon-2-smb {
+          top: 1rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2.0173rem;
+          height: 1.7204rem;
+          position: absolute;
+          left: 9rem;
+        }
+        .daily-NTT {
+          left: 2.5rem;
+          font-weight: 700;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          color: #000000;
+          white-space: nowrap;
+          width: 4.9rem;
+          height: 4.2rem;
+          position: absolute;
+          top: 0;
+          font-size: 1.6rem;
+          line-height: 2.5775;
+        }
+      }
+    }
+    .auto-group-gsxu-oYm {
+      width: calc(100% - 32.2rem);
+      display: flex;
+      align-items: center;
+      margin: 0rem 31.8rem 1.6rem 0.4rem;
+
+      .total-tasks--UQ1 {
+        flex-shrink: 0;
+        margin-right: 1.9rem;
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .item-30-Myb {
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #f37418;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+      }
+    }
+    .auto-group-wmvp-5ub {
+      width: calc(100% - 28.2rem);
+      display: flex;
+      align-items: center;
+      margin: 0rem 28.2rem 1.2rem 0rem;
+
+      .completed-tasks--oqb {
+        line-height: 2.5775;
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0.3rem 1.1rem 0rem 0rem;
+        font-size: 1.6rem;
+        font-weight: 700;
+      }
+      .item-15-7LV {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 0.3rem;
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #f37418;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+      }
+    }
+    .auto-group-fta1-SNm {
+      margin: 0rem 30.2rem 2.1rem 0rem;
+      width: calc(100% - 30.2rem);
+      display: flex;
+      align-items: center;
+
+      .pending-tasks--y7o {
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 1.6rem;
+        font-size: 1.6rem;
+      }
+      .item-15-sys {
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #f37418;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+      }
+    }
+    .auto-group-mptf-1qB {
+      display: flex;
+      align-items: center;
+      margin: 0rem 30.9rem 3.1rem 0rem;
+      width: calc(100% - 30.9rem);
+
+      .overdue-tasks--LsT {
+        flex-shrink: 0;
+        margin: 0.2rem 1.3rem 0rem 0rem;
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .item-5-f93 {
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 0.2rem;
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #f37418;
+      }
+    }
+    .auto-group-qk9x-Pqj {
+      margin: 0rem 0rem 2.7rem 0.4rem;
+      width: 21rem;
+      height: 4.2rem;
+      position: relative;
+
+      .rectangle-40-vam {
+        position: absolute;
+        left: 0;
+        top: 0.2rem;
+        background-color: #d9d9d9;
+        width: 21rem;
+        height: 3.8rem;
+      }
+      .task-category-4gy {
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        position: absolute;
+        left: 3.9rem;
+        top: 0;
+        text-align: center;
+        font-weight: 700;
+        width: 13.2rem;
+        height: 4.2rem;
+        font-size: 1.6rem;
+        line-height: 2.5775;
+        white-space: nowrap;
+      }
+    }
+    .auto-group-qsjw-Zdj {
+      margin: 0rem 0rem 2rem 0.4rem;
+      width: 32rem;
+      height: 6.3rem;
+      position: relative;
+
+      .rectangle-43-5ry {
+        background-color: #ef4545;
+        border-radius: 1rem 0 0 1rem;
+        width: 1.3rem;
+        height: 5.8rem;
+        position: absolute;
+        left: 0;
+        top: 0.5rem;
+      }
+      .rectangle-13-1Vj {
+        width: 32rem;
+        height: 5.8rem;
+        position: absolute;
+        left: 0;
+        top: 0.5rem;
+        object-fit: contain;
+        vertical-align: top;
+        border-radius: 1.3rem;
+      }
+      .work-XU5 {
+        width: 5.1rem;
+        height: 4.2rem;
+        font-size: 1.6rem;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        color: #000000;
+        white-space: nowrap;
+        position: absolute;
+        left: 3rem;
+        top: 0;
+        font-weight: 700;
+        line-height: 2.5775;
+      }
+      .tasks-Sb3 {
+        left: 3.5rem;
+        font-size: 1rem;
+        font-weight: 700;
+        color: #f37418;
+        white-space: nowrap;
+        width: 4rem;
+        height: 2.6rem;
+        position: absolute;
+        top: 2.7rem;
+        line-height: 2.5775;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+      }
+      .rectangle-42-x3b {
+        width: 1.3rem;
+        height: 5.8rem;
+        position: absolute;
+        left: 0;
+        top: 0.5rem;
+        background-color: #ef4545;
+        border-radius: 1rem 0 0 1rem;
+      }
+    }
+    .auto-group-rm6d-UXj {
+      margin-left: 0.4rem;
+      width: 32rem;
+      height: 5.8rem;
+      position: relative;
+
+      .rectangle-41-oa1 {
+        height: 5.7rem;
+        position: absolute;
+        left: 0;
+        top: 0.1rem;
+        background-color: #f8ebeb;
+        border-radius: 1.3rem;
+        width: 32rem;
+      }
+      .rectangle-44-jTf {
+        width: 1rem;
+        height: 5.8rem;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background-color: rgba(27, 224, 46, 0.5);
+        border-radius: 1rem 0 0 1rem;
+      }
+      .finance-4kq {
+        position: absolute;
+        left: 3.5rem;
+        top: 0.2rem;
+        line-height: 2.5775;
+        white-space: nowrap;
+        height: 4.2rem;
+        font-size: 1.6rem;
+        font-weight: 700;
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        width: 7.5rem;
+      }
+      .tasks-ajB {
+        color: #f37418;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        height: 2.6rem;
+        position: absolute;
+        left: 3.5rem;
+        top: 2.6rem;
+        font-size: 1rem;
+        font-weight: 700;
+        white-space: nowrap;
+        width: 4.6rem;
+        line-height: 2.5775;
+      }
+    }
+  }
+  .auto-group-envr-siH {
+    box-sizing: border-box;
+    width: 103rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff9f9;
+    border-radius: 1.5rem;
+    margin-top: 0.5rem;
+    align-items: center;
+    flex-shrink: 0;
+    padding: 2.3rem 6.3rem 3.4rem 3.2rem;
+
+    .auto-group-pr1x-ymK {
+      margin: 0rem 0rem 6.5rem 0.8rem;
+      width: calc(100% - 0.8rem);
+      height: 7rem;
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+
+      .completed-tasks-5JZ {
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0.1rem 48.6rem 0rem 0rem;
+        font-size: 2rem;
+        font-weight: 400;
+        line-height: 2.5775;
+      }
+      .auto-group-6lpp-b21 {
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #f37418;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        box-sizing: border-box;
+        flex-shrink: 0;
+        background-color: #d9d9d9;
+        height: 100%;
+        padding: 1.4rem 6.65rem 0.4rem 6.65rem;
+      }
+    }
+    .auto-group-mql9-Tpu {
+      margin-right: 2.15rem;
+      width: calc(100% - 2.15rem);
+      height: 61.8rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .auto-group-togh-bAR {
+        width: 63rem;
+        height: 61.8rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .auto-group-g7av-Xpm {
+        box-sizing: border-box;
+        padding: 4.9rem 0rem 9.5rem 9rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .auto-group-vhwm-GnM {
+          margin: 1.4rem 5.65rem 0rem 0rem;
+          width: 4rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .ellipse-11-bpd {
+            margin-bottom: 8.6rem;
+            width: 100%;
+            height: 4rem;
+            cursor: pointer;
+            background-color: rgba(246, 76, 198, 0.5);
+            border-radius: 2rem;
+            flex-shrink: 0;
+          }
+          .ellipse-12-L1X {
+            width: 100%;
+            height: 4rem;
+            cursor: pointer;
+            background-color: rgba(239, 68, 68, 0.5);
+            border-radius: 2rem;
+            flex-shrink: 0;
+            margin-bottom: 10.1rem;
+          }
+          .ellipse-13-rkZ {
+            margin-bottom: 11.3rem;
+            width: 100%;
+            height: 4rem;
+            cursor: pointer;
+            background-color: rgba(27, 224, 46, 0.5);
+            border-radius: 2rem;
+            flex-shrink: 0;
+          }
+          .ellipse-14-zbs {
+            flex-shrink: 0;
+            width: 100%;
+            height: 4rem;
+            cursor: pointer;
+            background-color: rgba(245, 166, 121, 0.5);
+            border-radius: 2rem;
+          }
+        }
+        .auto-group-toph-jJZ {
+          flex-shrink: 0;
+          margin-bottom: 0.3rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+
+          .study-svZ {
+            text-align: center;
+            font-size: 2rem;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-bottom: 7.8rem;
+            font-weight: 400;
+            line-height: 2.5775;
+          }
+          .work-QvV {
+            flex-shrink: 0;
+            margin-bottom: 8.8rem;
+            text-align: center;
+            font-weight: 400;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            white-space: nowrap;
+            font-size: 2rem;
+            line-height: 2.5775;
+          }
+          .finance-kDf {
+            line-height: 2.5775;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            flex-shrink: 0;
+            white-space: nowrap;
+            margin-bottom: 9.7rem;
+            text-align: center;
+            font-size: 2rem;
+            font-weight: 400;
+          }
+          .personal-GSu {
+            line-height: 2.5775;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 2rem;
+            font-weight: 400;
+          }
+        }
+      }
+    }
+  }
+}

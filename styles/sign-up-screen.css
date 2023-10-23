@@ -1,0 +1,214 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 167.1rem;
+  background-color: bisque;
+  
+}
+.sign-up-screen-JXT {
+  width: 100%;
+  height: 83.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #b0d8da;
+  display: flex;
+  border-radius: 1rem;
+  margin-top: 2cm;
+  margin-bottom: 2cm;
+  margin-left: 3cm;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+}
+
+.sign-up-screen-JXT .rectangle-1-tEm {
+  width: 110rem;
+  height: 83.1rem;
+  position: absolute;
+  left: 68.5rem;
+  top: 0;
+  background-color: #fffefd;
+  border-radius: 3.9rem;
+}
+.sign-up-screen-JXT .login-Nfj {
+  width: 6.5rem;
+  height: 5.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 124rem;
+  top: 76rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #f37418;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-screen-JXT .password-nDf {
+  width: 12.6rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 87rem;
+  top: 43.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-screen-JXT .line-3-o2H {
+  width: 58rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 87rem;
+  top: 49rem;
+  background-color: #000000;
+}
+.sign-up-screen-JXT .line-2-KWR {
+  width: 58rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 87rem;
+  top: 39rem;
+  background-color: #000000;
+}
+.sign-up-screen-JXT .email-address-TsX {
+  width: 19.4rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 87rem;
+  top: 34rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.4600000083);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+/* IMAGE 1 THE NOTEBOOK - PART*/
+.sign-up-screen-JXT .image-1-AX3 {
+  width: 44.4928rem;
+  height: auto; /* Let the height adjust automatically to maintain aspect ratio */
+  max-height: 83.1rem; /* Ensure the image does not exceed the container's height */
+  position: absolute;
+  margin-top: 2cm;
+  left: 33%; /* Horizontal centering within the container */
+  top: 50%; /* Vertical centering within the container */
+  transform: translate(-50%, -50%) rotate(-10deg); /* Rotate the image by 30 degrees */
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.sign-up-screen-JXT .image-4-58D {
+  width: 6.3917rem;
+  height: 7.0571rem;
+  position: absolute;
+  left: 2.9027rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sign-up-screen-JXT .empower-your-day-list-it-live-it-bcM {
+  width: 30.5rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 18rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.sign-up-screen-JXT .sign-up-Hk5 {
+  width: 15.7rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 87rem;
+  top: 7rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-screen-JXT .full-name-oiR {
+  width: 13.4rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 87rem;
+  top: 22.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.4699999988);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-screen-JXT .line-1-umT {
+  width: 58rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 87rem;
+  top: 28rem;
+  background-color: #000000;
+}
+.sign-up-screen-JXT .image-5-Eoj {
+  width: 4.2rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 141rem;
+  top: 44.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sign-up-screen-JXT .rectangle-2-ASV {
+  width: 42rem;
+  height: 7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 95rem;
+  top: 60.1rem;
+  background-color: #b0d8da;
+  border-radius: 2rem;
+}
+.sign-up-screen-JXT .login-g9w {
+  width: 10.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 110.5rem;
+  top: 60.5rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #fffbfb;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-screen-JXT .already-registered-P4M {
+  width: 22.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 100.9rem;
+  top: 76rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
