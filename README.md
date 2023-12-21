@@ -1,5 +1,4 @@
-# APT-3010-AI-FALL-2023-
-Artifical Intelligence project 
+# Artifical Intelligence project 
 
 # Concept Paper: AI-Powered Task Assistant with ChatGPT Integration
 # Introduction
